@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1733458408 source:c:\users\usuario\desktop\tpi ultima version posta posta - copia - copia-copia-copia\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1733450858 c:\users\usuario\desktop\tpi ultima version posta posta - copia - copia-copia-copia\funciones.h
+	<string>
+
+1733459070 source:c:\users\usuario\desktop\tpi ultima version posta posta - copia - copia-copia-copia\jugar.cpp
+	<iostream>
+	"funciones.h"
+
+1733459070 source:c:\users\usuario\desktop\tpi ultima version posta posta - copia - copia-copia-copia\jugar2.cpp
+	<iostream>
+	"jugar2.h"
+	"funciones.h"
+
+1733450873 c:\users\usuario\desktop\tpi ultima version posta posta - copia - copia-copia-copia\jugar2.h
+	<string>
+
+1733452214 source:c:\users\usuario\desktop\tpi ultima version posta posta - copia - copia-copia-copia\main.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+	"jugar.h"
+	"jugar2.h"
+
+1733450869 c:\users\usuario\desktop\tpi ultima version posta posta - copia - copia-copia-copia\jugar.h
+	<string>
+
+1733458408 source:c:\users\usuario\desktop\materias carrera tecnicatura\programación 1\tpi ultima version posta posta - copia - copia-copia-copia\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1733450858 c:\users\usuario\desktop\materias carrera tecnicatura\programación 1\tpi ultima version posta posta - copia - copia-copia-copia\funciones.h
+	<string>
+
+1733490735 source:c:\users\usuario\desktop\materias carrera tecnicatura\programación 1\tpi ultima version posta posta - copia - copia-copia-copia\jugar.cpp
+	<iostream>
+	"funciones.h"
+
+1733459070 source:c:\users\usuario\desktop\materias carrera tecnicatura\programación 1\tpi ultima version posta posta - copia - copia-copia-copia\jugar2.cpp
+	<iostream>
+	"jugar2.h"
+	"funciones.h"
+
+1733450873 c:\users\usuario\desktop\materias carrera tecnicatura\programación 1\tpi ultima version posta posta - copia - copia-copia-copia\jugar2.h
+	<string>
+
+1733452214 source:c:\users\usuario\desktop\materias carrera tecnicatura\programación 1\tpi ultima version posta posta - copia - copia-copia-copia\main.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+	"jugar.h"
+	"jugar2.h"
+
+1733450869 c:\users\usuario\desktop\materias carrera tecnicatura\programación 1\tpi ultima version posta posta - copia - copia-copia-copia\jugar.h
+	<string>
+
